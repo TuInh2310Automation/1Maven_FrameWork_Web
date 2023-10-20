@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Run on Firefox"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="6.597">
+  <properties />
+  
+  
+            <testcase name="User_01_Register" time="4.335" classname="com.nopcommerce.user.Level_21_Driven_Data_json" />
+                <testcase name="User_03_MyAccount" time="0.725" classname="com.nopcommerce.user.Level_21_Driven_Data_json" />
+                <testcase name="User_02_Login" time="1.537" classname="com.nopcommerce.user.Level_21_Driven_Data_json" />
+      
+</testsuite>

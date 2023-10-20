@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[[2023-08-12 13:53:58,993] Register - Step 01 : Navigate to register Page
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-08-12 13:54:00,347] Register - Step 02 : Enter to FirstName textbox with value is AUTOMATION
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-08-12 13:54:00,516] Register - Step 03 : Enter to LastName textbox with value is fc
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-08-12 13:54:01,101] Register - Step 04 : Select birthday 23/October/1990
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-08-12 13:54:01,171] Register - Step 04 : Enter to email textbox with value is automationfc4783@fakemail.vn
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-08-12 13:54:01,313] Register - Step 05 : Enter to password textbox with value is 123456
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-08-12 13:54:01,435] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-08-12 13:54:01,560] Register - Step 07: Click to Register Button
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-08-12 13:54:02,341] Register - Step 08 : Verify register success
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-08-12 13:54:02,399] Register - Step 09 : Go to HomePage
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-08-12 13:54:02,952] Register - Step 01 : Navigate to Login Page
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-08-12 13:54:03,401] Register - Step 02 : email  to Email textbox with value is automationfc4783@fakemail.vn
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-08-12 13:54:03,545] Register - Step 03 : Enter to password textbox with value is 123456
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-08-12 13:54:03,679] Register - Step 04: Click to Login Button
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-08-12 13:54:04,381] Register - Step 05: Verify 'MyAccount' link is display
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-08-12 13:54:04,456]  -------------------------- PASSED -------------------------- 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-08-12 13:54:04,463] My Account - Step 01: Navigate to 'My Account' Page
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-08-12 13:54:04,897] My Account - Step 02: Verify  'My Account' Page is displayed
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-08-12 13:54:04,961]  -------------------------- PASSED -------------------------- 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-08-12 13:54:04,961] My Account - Step 03: Verify  'My Account' Page is displayed
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-08-12 13:54:05,023] My Account - Step 04: Verify  lastname is displayed correct
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-08-12 13:54:05,084] My Account - Step 05: Verify  email is displayed correct
+<br>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-08-12T06:53:52Z" name="Nop commerce - User" finished-at="2023-08-12T06:54:05Z" duration-ms="13002">
+    <groups>
+    </groups>
+    <test started-at="2023-08-12T06:53:52Z" name="Run on Chrome" finished-at="2023-08-12T06:54:05Z" duration-ms="13002">
+      <class name="com.nopcommerce.user.Level_22_Multiple_Enviroment_xml">
+        <test-method is-config="true" signature="initBeforeSuite()[pri:0, instance:com.nopcommerce.user.Level_22_Multiple_Enviroment_xml@3fd2322d]" started-at="2023-08-12T06:53:52Z" name="initBeforeSuite" finished-at="2023-08-12T06:53:52Z" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBeforeSuite -->
+        <test-method is-config="true" signature="beforeClass(java.lang.String, java.lang.String)[pri:0, instance:com.nopcommerce.user.Level_22_Multiple_Enviroment_xml@3fd2322d]" started-at="2023-08-12T06:53:52Z" name="beforeClass" finished-at="2023-08-12T06:53:58Z" duration-ms="6102" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://demo.nopcommerce.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="User_01_Register()[pri:0, instance:com.nopcommerce.user.Level_22_Multiple_Enviroment_xml@3fd2322d]" started-at="2023-08-12T06:53:58Z" name="User_01_Register" finished-at="2023-08-12T06:54:02Z" duration-ms="3932" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[[2023-08-12 13:53:58,993] Register - Step 01 : Navigate to register Page
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-08-12 13:54:00,347] Register - Step 02 : Enter to FirstName textbox with value is AUTOMATION
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-08-12 13:54:00,516] Register - Step 03 : Enter to LastName textbox with value is fc
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-08-12 13:54:01,101] Register - Step 04 : Select birthday 23/October/1990
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-08-12 13:54:01,171] Register - Step 04 : Enter to email textbox with value is automationfc4783@fakemail.vn
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-08-12 13:54:01,313] Register - Step 05 : Enter to password textbox with value is 123456
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-08-12 13:54:01,435] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-08-12 13:54:01,560] Register - Step 07: Click to Register Button
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-08-12 13:54:02,341] Register - Step 08 : Verify register success
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-08-12 13:54:02,399] Register - Step 09 : Go to HomePage
+<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- User_01_Register -->
+        <test-method signature="User_02_Login()[pri:0, instance:com.nopcommerce.user.Level_22_Multiple_Enviroment_xml@3fd2322d]" started-at="2023-08-12T06:54:02Z" name="User_02_Login" finished-at="2023-08-12T06:54:04Z" duration-ms="1509" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[[2023-08-12 13:54:02,952] Register - Step 01 : Navigate to Login Page
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-08-12 13:54:03,401] Register - Step 02 : email  to Email textbox with value is automationfc4783@fakemail.vn
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-08-12 13:54:03,545] Register - Step 03 : Enter to password textbox with value is 123456
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-08-12 13:54:03,679] Register - Step 04: Click to Login Button
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-08-12 13:54:04,381] Register - Step 05: Verify 'MyAccount' link is display
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-08-12 13:54:04,456]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- User_02_Login -->
+        <test-method signature="User_03_MyAccount()[pri:0, instance:com.nopcommerce.user.Level_22_Multiple_Enviroment_xml@3fd2322d]" started-at="2023-08-12T06:54:04Z" name="User_03_MyAccount" finished-at="2023-08-12T06:54:05Z" duration-ms="687" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[[2023-08-12 13:54:04,463] My Account - Step 01: Navigate to 'My Account' Page
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-08-12 13:54:04,897] My Account - Step 02: Verify  'My Account' Page is displayed
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-08-12 13:54:04,961]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-08-12 13:54:04,961] My Account - Step 03: Verify  'My Account' Page is displayed
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-08-12 13:54:05,023] My Account - Step 04: Verify  lastname is displayed correct
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-08-12 13:54:05,084] My Account - Step 05: Verify  email is displayed correct
+<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- User_03_MyAccount -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.nopcommerce.user.Level_22_Multiple_Enviroment_xml@3fd2322d]" started-at="2023-08-12T06:54:05Z" name="afterClass" finished-at="2023-08-12T06:54:05Z" duration-ms="608" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.nopcommerce.user.Level_22_Multiple_Enviroment_xml -->
+    </test> <!-- Run on Chrome -->
+  </suite> <!-- Nop commerce - User -->
+</testng-results>

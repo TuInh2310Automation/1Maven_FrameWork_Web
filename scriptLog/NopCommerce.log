@@ -1,0 +1,371 @@
+[2023-08-10 14:08:35,943] Register - Step 01 : Navigate to register Page
+[2023-08-10 14:08:37,267] Register - Step 02 : Enter to FirstName textbox with value is AUTOMATION
+[2023-08-10 14:08:37,424] Register - Step 03 : Enter to LastName textbox with value is fc
+[2023-08-10 14:08:37,945] Register - Step 04 : Select birthday 23/October/1990
+[2023-08-10 14:08:38,001] Register - Step 04 : Enter to email textbox with value is automationfc9735@fakemail.vn
+[2023-08-10 14:08:38,142] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-08-10 14:08:38,288] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-08-10 14:08:38,426] Register - Step 07: Click to Register Button
+[2023-08-10 14:08:39,385] Register - Step 08 : Verify register success
+[2023-08-10 14:08:39,447] Register - Step 09 : Go to HomePage
+[2023-08-10 14:12:44,364] Register - Step 01 : Navigate to register Page
+[2023-08-10 14:12:52,442] Register - Step 02 : Enter to FirstName textbox with value is AUTOMATION
+[2023-08-10 14:12:52,618] Register - Step 03 : Enter to LastName textbox with value is fc
+[2023-08-10 14:12:53,352] Register - Step 04 : Select birthday 23/October/1990
+[2023-08-10 14:12:53,441] Register - Step 04 : Enter to email textbox with value is automationfc8814@fakemail.vn
+[2023-08-10 14:12:53,632] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-08-10 14:12:53,786] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-08-10 14:12:53,959] Register - Step 07: Click to Register Button
+[2023-08-10 14:12:56,018] Register - Step 08 : Verify register success
+[2023-08-10 14:12:56,109] Register - Step 09 : Go to HomePage
+[2023-08-10 14:12:57,481] Register - Step 01 : Navigate to Login Page
+[2023-08-10 14:13:39,041] My Account - Step 01: Navigate to 'My Account' Page
+[2023-08-10 14:13:40,106] My Account - Step 02: Verify  'My Account' Page is displayed
+[2023-08-10 14:13:40,167]  -------------------------- PASSED -------------------------- 
+[2023-08-10 14:13:40,167] My Account - Step 03: Verify  'My Account' Page is displayed
+[2023-08-10 14:13:40,228] My Account - Step 04: Verify  lastname is displayed correct
+[2023-08-10 14:13:40,289] My Account - Step 05: Verify  email is displayed correct
+[2023-08-10 14:13:45,321] Register - Step 01 : Navigate to register Page
+[2023-08-10 14:13:46,682] Register - Step 02 : Enter to FirstName textbox with value is AUTOMATION
+[2023-08-10 14:13:46,781] Register - Step 03 : Enter to LastName textbox with value is fc
+[2023-08-10 14:13:47,830] Register - Step 04 : Select birthday 23/October/1990
+[2023-08-10 14:13:47,926] Register - Step 04 : Enter to email textbox with value is automationfc1666@fakemail.vn
+[2023-08-10 14:13:48,054] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-08-10 14:13:48,134] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-08-10 14:13:48,211] Register - Step 07: Click to Register Button
+[2023-08-10 14:13:50,386] Register - Step 08 : Verify register success
+[2023-08-10 14:13:50,447] Register - Step 09 : Go to HomePage
+[2023-08-10 14:13:50,942] Register - Step 01 : Navigate to Login Page
+[2023-08-10 14:14:31,851] My Account - Step 01: Navigate to 'My Account' Page
+[2023-08-10 14:14:32,840] My Account - Step 02: Verify  'My Account' Page is displayed
+[2023-08-10 14:14:32,917]  -------------------------- PASSED -------------------------- 
+[2023-08-10 14:14:32,917] My Account - Step 03: Verify  'My Account' Page is displayed
+[2023-08-10 14:14:32,975] My Account - Step 04: Verify  lastname is displayed correct
+[2023-08-10 14:14:33,038] My Account - Step 05: Verify  email is displayed correct
+[2023-08-10 14:29:10,422] Register - Step 01 : Navigate to register Page
+[2023-08-10 14:29:11,716] Register - Step 02 : Enter to FirstName textbox with value is AUTOMATION
+[2023-08-10 14:29:11,863] Register - Step 03 : Enter to LastName textbox with value is fc
+[2023-08-10 14:29:12,382] Register - Step 04 : Select birthday 23/October/1990
+[2023-08-10 14:29:12,442] Register - Step 04 : Enter to email textbox with value is automationfc6408@fakemail.vn
+[2023-08-10 14:29:12,577] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-08-10 14:29:12,712] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-08-10 14:29:12,857] Register - Step 07: Click to Register Button
+[2023-08-10 14:29:13,662] Register - Step 08 : Verify register success
+[2023-08-10 14:29:13,718] Register - Step 09 : Go to HomePage
+[2023-08-10 14:29:14,344] Register - Step 01 : Navigate to Login Page
+[2023-08-10 14:29:55,733] My Account - Step 01: Navigate to 'My Account' Page
+[2023-08-10 14:29:57,356] My Account - Step 02: Verify  'My Account' Page is displayed
+[2023-08-10 14:29:57,419]  -------------------------- PASSED -------------------------- 
+[2023-08-10 14:29:57,419] My Account - Step 03: Verify  'My Account' Page is displayed
+[2023-08-10 14:29:57,484] My Account - Step 04: Verify  lastname is displayed correct
+[2023-08-10 14:29:57,555] My Account - Step 05: Verify  email is displayed correct
+[2023-08-10 14:30:02,146] Register - Step 01 : Navigate to register Page
+[2023-08-10 14:30:03,475] Register - Step 02 : Enter to FirstName textbox with value is AUTOMATION
+[2023-08-10 14:30:03,586] Register - Step 03 : Enter to LastName textbox with value is fc
+[2023-08-10 14:30:04,581] Register - Step 04 : Select birthday 23/October/1990
+[2023-08-10 14:30:04,656] Register - Step 04 : Enter to email textbox with value is automationfc9701@fakemail.vn
+[2023-08-10 14:30:04,802] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-08-10 14:30:04,907] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-08-10 14:30:05,018] Register - Step 07: Click to Register Button
+[2023-08-10 14:30:05,906] Register - Step 08 : Verify register success
+[2023-08-10 14:30:05,976] Register - Step 09 : Go to HomePage
+[2023-08-10 14:30:06,483] Register - Step 01 : Navigate to Login Page
+[2023-08-10 14:30:06,923] Register - Step 02 : email  to Email textbox with value is automationfc9701@fakemail.vn
+[2023-08-10 14:30:07,040] Register - Step 03 : Enter to password textbox with value is 123456
+[2023-08-10 14:30:07,137] Register - Step 04: Click to Login Button
+[2023-08-10 14:30:07,919] Register - Step 05: Verify 'MyAccount' link is display
+[2023-08-10 14:30:08,018]  -------------------------- PASSED -------------------------- 
+[2023-08-10 14:30:08,022] My Account - Step 01: Navigate to 'My Account' Page
+[2023-08-10 14:30:08,487] My Account - Step 02: Verify  'My Account' Page is displayed
+[2023-08-10 14:30:08,560]  -------------------------- PASSED -------------------------- 
+[2023-08-10 14:30:08,560] My Account - Step 03: Verify  'My Account' Page is displayed
+[2023-08-10 14:30:08,618] My Account - Step 04: Verify  lastname is displayed correct
+[2023-08-10 14:30:08,682] My Account - Step 05: Verify  email is displayed correct
+[2023-08-10 15:47:33,213] Register - Step 01 : Navigate to register Page
+[2023-08-10 15:47:34,581] Register - Step 02 : Enter to FirstName textbox with value is AUTOMATION
+[2023-08-10 15:47:34,774] Register - Step 03 : Enter to LastName textbox with value is fc
+[2023-08-10 15:47:35,370] Register - Step 04 : Select birthday 23/October/1990
+[2023-08-10 15:47:35,417] Register - Step 04 : Enter to email textbox with value is automationfc5252@fakemail.vn
+[2023-08-10 15:47:35,567] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-08-10 15:47:35,701] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-08-10 15:47:35,854] Register - Step 07: Click to Register Button
+[2023-08-10 15:47:36,639] Register - Step 08 : Verify register success
+[2023-08-10 15:47:36,711] Register - Step 09 : Go to HomePage
+[2023-08-10 15:47:37,324] Register - Step 01 : Navigate to Login Page
+[2023-08-10 15:47:37,769] Register - Step 02 : email  to Email textbox with value is automationfc5252@fakemail.vn
+[2023-08-10 15:47:37,913] Register - Step 03 : Enter to password textbox with value is 123456
+[2023-08-10 15:47:38,049] Register - Step 04: Click to Login Button
+[2023-08-10 15:47:38,834] Register - Step 05: Verify 'MyAccount' link is display
+[2023-08-10 15:47:38,904]  -------------------------- PASSED -------------------------- 
+[2023-08-10 15:47:38,908] My Account - Step 01: Navigate to 'My Account' Page
+[2023-08-10 15:47:39,375] My Account - Step 02: Verify  'My Account' Page is displayed
+[2023-08-10 15:47:39,434]  -------------------------- PASSED -------------------------- 
+[2023-08-10 15:47:39,435] My Account - Step 03: Verify  'My Account' Page is displayed
+[2023-08-10 15:47:39,498] My Account - Step 04: Verify  lastname is displayed correct
+[2023-08-10 15:47:39,559] My Account - Step 05: Verify  email is displayed correct
+[2023-08-10 15:47:45,180] Register - Step 01 : Navigate to register Page
+[2023-08-10 15:47:47,019] Register - Step 02 : Enter to FirstName textbox with value is AUTOMATION
+[2023-08-10 15:47:47,111] Register - Step 03 : Enter to LastName textbox with value is fc
+[2023-08-10 15:47:48,088] Register - Step 04 : Select birthday 23/October/1990
+[2023-08-10 15:47:48,135] Register - Step 04 : Enter to email textbox with value is automationfc3272@fakemail.vn
+[2023-08-10 15:47:48,224] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-08-10 15:47:48,313] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-08-10 15:47:48,390] Register - Step 07: Click to Register Button
+[2023-08-10 15:47:49,140] Register - Step 08 : Verify register success
+[2023-08-10 15:47:49,194] Register - Step 09 : Go to HomePage
+[2023-08-10 15:47:49,628] Register - Step 01 : Navigate to Login Page
+[2023-08-10 15:47:50,062] Register - Step 02 : email  to Email textbox with value is automationfc3272@fakemail.vn
+[2023-08-10 15:47:50,158] Register - Step 03 : Enter to password textbox with value is 123456
+[2023-08-10 15:47:50,250] Register - Step 04: Click to Login Button
+[2023-08-10 15:47:50,917] Register - Step 05: Verify 'MyAccount' link is display
+[2023-08-10 15:47:51,019]  -------------------------- PASSED -------------------------- 
+[2023-08-10 15:47:51,022] My Account - Step 01: Navigate to 'My Account' Page
+[2023-08-10 15:47:51,421] My Account - Step 02: Verify  'My Account' Page is displayed
+[2023-08-10 15:47:51,528]  -------------------------- PASSED -------------------------- 
+[2023-08-10 15:47:51,528] My Account - Step 03: Verify  'My Account' Page is displayed
+[2023-08-10 15:47:51,599] My Account - Step 04: Verify  lastname is displayed correct
+[2023-08-10 15:47:51,659] My Account - Step 05: Verify  email is displayed correct
+[2023-08-10 16:29:48,037] Register - Step 01 : Navigate to register Page
+[2023-08-10 16:29:49,553] Register - Step 02 : Enter to FirstName textbox with value is AUTOMATION
+[2023-08-10 16:29:49,885] Register - Step 03 : Enter to LastName textbox with value is fc
+[2023-08-10 16:29:50,603] Register - Step 04 : Select birthday 23/October/1990
+[2023-08-10 16:29:50,711] Register - Step 04 : Enter to email textbox with value is automationfc1372@fakemail.vn
+[2023-08-10 16:29:50,902] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-08-10 16:29:51,066] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-08-10 16:29:51,230] Register - Step 07: Click to Register Button
+[2023-08-10 16:29:53,274] Register - Step 08 : Verify register success
+[2023-08-10 16:29:53,356] Register - Step 09 : Go to HomePage
+[2023-08-10 16:29:54,633] Register - Step 01 : Navigate to Login Page
+[2023-08-10 16:29:55,686] Register - Step 02 : email  to Email textbox with value is automationfc1372@fakemail.vn
+[2023-08-10 16:29:55,838] Register - Step 03 : Enter to password textbox with value is 123456
+[2023-08-10 16:29:56,041] Register - Step 04: Click to Login Button
+[2023-08-10 16:29:56,871] Register - Step 05: Verify 'MyAccount' link is display
+[2023-08-10 16:29:56,976]  -------------------------- PASSED -------------------------- 
+[2023-08-10 16:29:56,981] My Account - Step 01: Navigate to 'My Account' Page
+[2023-08-10 16:29:57,497] My Account - Step 02: Verify  'My Account' Page is displayed
+[2023-08-10 16:29:57,573]  -------------------------- PASSED -------------------------- 
+[2023-08-10 16:29:57,573] My Account - Step 03: Verify  'My Account' Page is displayed
+[2023-08-10 16:29:57,634] My Account - Step 04: Verify  lastname is displayed correct
+[2023-08-10 16:29:57,712] My Account - Step 05: Verify  email is displayed correct
+[2023-08-10 16:30:03,689] Register - Step 01 : Navigate to register Page
+[2023-08-10 16:30:07,644] Register - Step 02 : Enter to FirstName textbox with value is AUTOMATION
+[2023-08-10 16:30:07,742] Register - Step 03 : Enter to LastName textbox with value is fc
+[2023-08-10 16:30:08,770] Register - Step 04 : Select birthday 23/October/1990
+[2023-08-10 16:30:08,815] Register - Step 04 : Enter to email textbox with value is automationfc5808@fakemail.vn
+[2023-08-10 16:30:08,909] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-08-10 16:30:09,001] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-08-10 16:30:09,088] Register - Step 07: Click to Register Button
+[2023-08-10 16:30:09,920] Register - Step 08 : Verify register success
+[2023-08-10 16:30:09,977] Register - Step 09 : Go to HomePage
+[2023-08-10 16:30:10,502] Register - Step 01 : Navigate to Login Page
+[2023-08-10 16:30:10,990] Register - Step 02 : email  to Email textbox with value is automationfc5808@fakemail.vn
+[2023-08-10 16:30:11,134] Register - Step 03 : Enter to password textbox with value is 123456
+[2023-08-10 16:30:11,252] Register - Step 04: Click to Login Button
+[2023-08-10 16:30:12,112] Register - Step 05: Verify 'MyAccount' link is display
+[2023-08-10 16:30:12,213]  -------------------------- PASSED -------------------------- 
+[2023-08-10 16:30:12,216] My Account - Step 01: Navigate to 'My Account' Page
+[2023-08-10 16:30:12,701] My Account - Step 02: Verify  'My Account' Page is displayed
+[2023-08-10 16:30:12,779]  -------------------------- PASSED -------------------------- 
+[2023-08-10 16:30:12,779] My Account - Step 03: Verify  'My Account' Page is displayed
+[2023-08-10 16:30:12,851] My Account - Step 04: Verify  lastname is displayed correct
+[2023-08-10 16:30:12,929] My Account - Step 05: Verify  email is displayed correct
+[2023-08-11 10:55:31,950] Register - Step 01 : Navigate to register Page
+[2023-08-11 10:55:33,215] Register - Step 02 : Enter to FirstName textbox with value is AUTOMATION
+[2023-08-11 10:55:33,364] Register - Step 03 : Enter to LastName textbox with value is fc
+[2023-08-11 10:55:33,918] Register - Step 04 : Select birthday 23/October/1990
+[2023-08-11 10:55:33,969] Register - Step 04 : Enter to email textbox with value is automationfc7367@fakemail.vn
+[2023-08-11 10:55:34,111] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-08-11 10:55:34,243] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-08-11 10:55:34,378] Register - Step 07: Click to Register Button
+[2023-08-11 10:55:35,076] Register - Step 08 : Verify register success
+[2023-08-11 10:55:35,135] Register - Step 09 : Go to HomePage
+[2023-08-11 10:55:35,721] Register - Step 01 : Navigate to Login Page
+[2023-08-11 10:55:36,168] Register - Step 02 : email  to Email textbox with value is automationfc7367@fakemail.vn
+[2023-08-11 10:55:36,302] Register - Step 03 : Enter to password textbox with value is 123456
+[2023-08-11 10:55:36,433] Register - Step 04: Click to Login Button
+[2023-08-11 10:55:37,137] Register - Step 05: Verify 'MyAccount' link is display
+[2023-08-11 10:55:37,212]  -------------------------- PASSED -------------------------- 
+[2023-08-11 10:55:37,215] My Account - Step 01: Navigate to 'My Account' Page
+[2023-08-11 10:55:37,659] My Account - Step 02: Verify  'My Account' Page is displayed
+[2023-08-11 10:55:37,727]  -------------------------- PASSED -------------------------- 
+[2023-08-11 10:55:37,728] My Account - Step 03: Verify  'My Account' Page is displayed
+[2023-08-11 10:55:37,785] My Account - Step 04: Verify  lastname is displayed correct
+[2023-08-11 10:55:37,845] My Account - Step 05: Verify  email is displayed correct
+[2023-08-11 10:55:42,722] Register - Step 01 : Navigate to register Page
+[2023-08-11 10:55:44,041] Register - Step 02 : Enter to FirstName textbox with value is AUTOMATION
+[2023-08-11 10:55:44,140] Register - Step 03 : Enter to LastName textbox with value is fc
+[2023-08-11 10:55:45,119] Register - Step 04 : Select birthday 23/October/1990
+[2023-08-11 10:55:45,164] Register - Step 04 : Enter to email textbox with value is automationfc8677@fakemail.vn
+[2023-08-11 10:55:45,257] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-08-11 10:55:45,343] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-08-11 10:55:45,422] Register - Step 07: Click to Register Button
+[2023-08-11 10:55:46,119] Register - Step 08 : Verify register success
+[2023-08-11 10:55:46,171] Register - Step 09 : Go to HomePage
+[2023-08-11 10:55:46,607] Register - Step 01 : Navigate to Login Page
+[2023-08-11 10:55:47,030] Register - Step 02 : email  to Email textbox with value is automationfc8677@fakemail.vn
+[2023-08-11 10:55:47,125] Register - Step 03 : Enter to password textbox with value is 123456
+[2023-08-11 10:55:47,224] Register - Step 04: Click to Login Button
+[2023-08-11 10:55:47,893] Register - Step 05: Verify 'MyAccount' link is display
+[2023-08-11 10:55:47,972]  -------------------------- PASSED -------------------------- 
+[2023-08-11 10:55:47,975] My Account - Step 01: Navigate to 'My Account' Page
+[2023-08-11 10:55:48,361] My Account - Step 02: Verify  'My Account' Page is displayed
+[2023-08-11 10:55:48,429]  -------------------------- PASSED -------------------------- 
+[2023-08-11 10:55:48,429] My Account - Step 03: Verify  'My Account' Page is displayed
+[2023-08-11 10:55:48,489] My Account - Step 04: Verify  lastname is displayed correct
+[2023-08-11 10:55:48,549] My Account - Step 05: Verify  email is displayed correct
+[2023-08-12 01:29:16,147] Register - Step 01 : Navigate to register Page
+[2023-08-12 01:29:17,446] Register - Step 02 : Enter to FirstName textbox with value is AUTOMATION
+[2023-08-12 01:29:17,601] Register - Step 03 : Enter to LastName textbox with value is fc
+[2023-08-12 01:29:18,193] Register - Step 04 : Select birthday 23/October/1990
+[2023-08-12 01:29:18,264] Register - Step 04 : Enter to email textbox with value is automationfc2749@fakemail.vn
+[2023-08-12 01:29:18,406] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-08-12 01:29:18,552] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-08-12 01:29:18,696] Register - Step 07: Click to Register Button
+[2023-08-12 01:29:19,465] Register - Step 08 : Verify register success
+[2023-08-12 01:29:19,522] Register - Step 09 : Go to HomePage
+[2023-08-12 01:29:20,080] Register - Step 01 : Navigate to Login Page
+[2023-08-12 01:29:20,517] Register - Step 02 : email  to Email textbox with value is automationfc2749@fakemail.vn
+[2023-08-12 01:29:20,653] Register - Step 03 : Enter to password textbox with value is 123456
+[2023-08-12 01:29:20,791] Register - Step 04: Click to Login Button
+[2023-08-12 01:29:21,592] Register - Step 05: Verify 'MyAccount' link is display
+[2023-08-12 01:29:21,675]  -------------------------- PASSED -------------------------- 
+[2023-08-12 01:29:21,682] My Account - Step 01: Navigate to 'My Account' Page
+[2023-08-12 01:29:22,159] My Account - Step 02: Verify  'My Account' Page is displayed
+[2023-08-12 01:29:22,226]  -------------------------- PASSED -------------------------- 
+[2023-08-12 01:29:22,226] My Account - Step 03: Verify  'My Account' Page is displayed
+[2023-08-12 01:29:22,285] My Account - Step 04: Verify  lastname is displayed correct
+[2023-08-12 01:29:22,346] My Account - Step 05: Verify  email is displayed correct
+[2023-08-12 01:38:13,735] Register - Step 01 : Navigate to register Page
+[2023-08-12 01:38:14,963] Register - Step 02 : Enter to FirstName textbox with value is AUTOMATION
+[2023-08-12 01:38:15,107] Register - Step 03 : Enter to LastName textbox with value is fc
+[2023-08-12 01:38:15,644] Register - Step 04 : Select birthday 23/October/1990
+[2023-08-12 01:38:15,726] Register - Step 04 : Enter to email textbox with value is automationfc1773@fakemail.vn
+[2023-08-12 01:38:15,945] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-08-12 01:38:16,100] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-08-12 01:38:16,240] Register - Step 07: Click to Register Button
+[2023-08-12 01:38:17,102] Register - Step 08 : Verify register success
+[2023-08-12 01:38:17,175] Register - Step 09 : Go to HomePage
+[2023-08-12 01:38:17,796] Register - Step 01 : Navigate to Login Page
+[2023-08-12 01:38:42,940] My Account - Step 01: Navigate to 'My Account' Page
+[2023-08-12 01:39:01,197] Register - Step 01 : Navigate to register Page
+[2023-08-12 01:39:02,519] Register - Step 02 : Enter to FirstName textbox with value is AUTOMATION
+[2023-08-12 01:39:02,685] Register - Step 03 : Enter to LastName textbox with value is fc
+[2023-08-12 01:39:03,233] Register - Step 04 : Select birthday 23/October/1990
+[2023-08-12 01:39:03,312] Register - Step 04 : Enter to email textbox with value is automationfc722@fakemail.vn
+[2023-08-12 01:39:03,454] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-08-12 01:39:03,612] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-08-12 01:39:03,764] Register - Step 07: Click to Register Button
+[2023-08-12 01:39:04,180] Register - Step 08 : Verify register success
+[2023-08-12 01:39:34,655] Register - Step 01 : Navigate to Login Page
+[2023-08-12 01:39:46,085] Register - Step 01 : Navigate to register Page
+[2023-08-12 01:39:47,336] Register - Step 02 : Enter to FirstName textbox with value is AUTOMATION
+[2023-08-12 01:39:47,491] Register - Step 03 : Enter to LastName textbox with value is fc
+[2023-08-12 01:39:48,037] Register - Step 04 : Select birthday 23/October/1990
+[2023-08-12 01:39:48,102] Register - Step 04 : Enter to email textbox with value is automationfc9895@fakemail.vn
+[2023-08-12 01:39:48,246] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-08-12 01:39:48,393] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-08-12 01:39:48,528] Register - Step 07: Click to Register Button
+[2023-08-12 01:39:49,334] Register - Step 08 : Verify register success
+[2023-08-12 01:39:49,404] Register - Step 09 : Go to HomePage
+[2023-08-12 01:39:50,050] Register - Step 01 : Navigate to Login Page
+[2023-08-12 01:39:50,471] Register - Step 02 : email  to Email textbox with value is automationfc9895@fakemail.vn
+[2023-08-12 01:39:50,616] Register - Step 03 : Enter to password textbox with value is 123456
+[2023-08-12 01:39:50,748] Register - Step 04: Click to Login Button
+[2023-08-12 01:39:51,538] Register - Step 05: Verify 'MyAccount' link is display
+[2023-08-12 01:39:51,599]  -------------------------- PASSED -------------------------- 
+[2023-08-12 01:39:51,602] My Account - Step 01: Navigate to 'My Account' Page
+[2023-08-12 01:39:52,084] My Account - Step 02: Verify  'My Account' Page is displayed
+[2023-08-12 01:39:52,148]  -------------------------- PASSED -------------------------- 
+[2023-08-12 01:39:52,148] My Account - Step 03: Verify  'My Account' Page is displayed
+[2023-08-12 01:39:52,209] My Account - Step 04: Verify  lastname is displayed correct
+[2023-08-12 01:39:52,273] My Account - Step 05: Verify  email is displayed correct
+[2023-08-12 01:40:04,753] My Account - Step 01: Navigate to 'My Account' Page
+[2023-08-12 01:40:48,972] Register - Step 01 : Navigate to register Page
+[2023-08-12 01:40:50,243] Register - Step 02 : Enter to FirstName textbox with value is AUTOMATION
+[2023-08-12 01:40:50,384] Register - Step 03 : Enter to LastName textbox with value is fc
+[2023-08-12 01:40:50,971] Register - Step 04 : Select birthday 23/October/1990
+[2023-08-12 01:40:51,023] Register - Step 04 : Enter to email textbox with value is automationfc7022@fakemail.vn
+[2023-08-12 01:40:51,167] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-08-12 01:40:51,311] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-08-12 01:40:51,446] Register - Step 07: Click to Register Button
+[2023-08-12 01:40:52,229] Register - Step 08 : Verify register success
+[2023-08-12 01:40:52,296] Register - Step 09 : Go to HomePage
+[2023-08-12 01:40:52,897] Register - Step 01 : Navigate to Login Page
+[2023-08-12 01:40:53,371] Register - Step 02 : email  to Email textbox with value is automationfc7022@fakemail.vn
+[2023-08-12 01:40:53,518] Register - Step 03 : Enter to password textbox with value is 123456
+[2023-08-12 01:40:53,650] Register - Step 04: Click to Login Button
+[2023-08-12 01:40:54,392] Register - Step 05: Verify 'MyAccount' link is display
+[2023-08-12 01:40:54,450]  -------------------------- PASSED -------------------------- 
+[2023-08-12 01:40:54,453] My Account - Step 01: Navigate to 'My Account' Page
+[2023-08-12 01:40:54,896] My Account - Step 02: Verify  'My Account' Page is displayed
+[2023-08-12 01:40:54,967]  -------------------------- PASSED -------------------------- 
+[2023-08-12 01:40:54,967] My Account - Step 03: Verify  'My Account' Page is displayed
+[2023-08-12 01:40:55,041] My Account - Step 04: Verify  lastname is displayed correct
+[2023-08-12 01:40:55,104] My Account - Step 05: Verify  email is displayed correct
+[2023-08-12 13:53:58,993] Register - Step 01 : Navigate to register Page
+[2023-08-12 13:54:00,347] Register - Step 02 : Enter to FirstName textbox with value is AUTOMATION
+[2023-08-12 13:54:00,516] Register - Step 03 : Enter to LastName textbox with value is fc
+[2023-08-12 13:54:01,101] Register - Step 04 : Select birthday 23/October/1990
+[2023-08-12 13:54:01,171] Register - Step 04 : Enter to email textbox with value is automationfc4783@fakemail.vn
+[2023-08-12 13:54:01,313] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-08-12 13:54:01,435] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-08-12 13:54:01,560] Register - Step 07: Click to Register Button
+[2023-08-12 13:54:02,341] Register - Step 08 : Verify register success
+[2023-08-12 13:54:02,399] Register - Step 09 : Go to HomePage
+[2023-08-12 13:54:02,952] Register - Step 01 : Navigate to Login Page
+[2023-08-12 13:54:03,401] Register - Step 02 : email  to Email textbox with value is automationfc4783@fakemail.vn
+[2023-08-12 13:54:03,545] Register - Step 03 : Enter to password textbox with value is 123456
+[2023-08-12 13:54:03,679] Register - Step 04: Click to Login Button
+[2023-08-12 13:54:04,381] Register - Step 05: Verify 'MyAccount' link is display
+[2023-08-12 13:54:04,456]  -------------------------- PASSED -------------------------- 
+[2023-08-12 13:54:04,463] My Account - Step 01: Navigate to 'My Account' Page
+[2023-08-12 13:54:04,897] My Account - Step 02: Verify  'My Account' Page is displayed
+[2023-08-12 13:54:04,961]  -------------------------- PASSED -------------------------- 
+[2023-08-12 13:54:04,961] My Account - Step 03: Verify  'My Account' Page is displayed
+[2023-08-12 13:54:05,023] My Account - Step 04: Verify  lastname is displayed correct
+[2023-08-12 13:54:05,084] My Account - Step 05: Verify  email is displayed correct
+[2023-08-12 21:47:57,605] Register - Step 01 : Navigate to register Page
+[2023-08-12 21:47:58,915] Register - Step 02 : Enter to FirstName textbox with value is AUTOMATION
+[2023-08-12 21:47:59,064] Register - Step 03 : Enter to LastName textbox with value is fc
+[2023-08-12 21:47:59,618] Register - Step 04 : Select birthday 23/October/1990
+[2023-08-12 21:47:59,667] Register - Step 04 : Enter to email textbox with value is automationfc7518@fakemail.vn
+[2023-08-12 21:47:59,810] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-08-12 21:47:59,942] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-08-12 21:48:00,083] Register - Step 07: Click to Register Button
+[2023-08-12 21:48:00,891] Register - Step 08 : Verify register success
+[2023-08-12 21:48:00,963] Register - Step 09 : Go to HomePage
+[2023-08-12 21:48:01,525] Register - Step 01 : Navigate to Login Page
+[2023-08-12 21:48:01,990] Register - Step 02 : email  to Email textbox with value is automationfc7518@fakemail.vn
+[2023-08-12 21:48:02,147] Register - Step 03 : Enter to password textbox with value is 123456
+[2023-08-12 21:48:02,283] Register - Step 04: Click to Login Button
+[2023-08-12 21:48:03,108] Register - Step 05: Verify 'MyAccount' link is display
+[2023-08-12 21:48:03,178]  -------------------------- PASSED -------------------------- 
+[2023-08-12 21:48:03,182] My Account - Step 01: Navigate to 'My Account' Page
+[2023-08-12 21:48:03,612] My Account - Step 02: Verify  'My Account' Page is displayed
+[2023-08-12 21:48:03,677]  -------------------------- PASSED -------------------------- 
+[2023-08-12 21:48:03,677] My Account - Step 03: Verify  'My Account' Page is displayed
+[2023-08-12 21:48:03,737] My Account - Step 04: Verify  lastname is displayed correct
+[2023-08-12 21:48:03,799] My Account - Step 05: Verify  email is displayed correct
+[2023-08-12 22:25:01,348] Register - Step 01 : Navigate to register Page
+[2023-08-12 22:25:02,598] Register - Step 02 : Enter to FirstName textbox with value is AUTOMATION
+[2023-08-12 22:25:02,757] Register - Step 03 : Enter to LastName textbox with value is fc
+[2023-08-12 22:25:03,362] Register - Step 04 : Select birthday 23/October/1990
+[2023-08-12 22:25:03,425] Register - Step 04 : Enter to email textbox with value is automationfc8546@fakemail.vn
+[2023-08-12 22:25:03,595] Register - Step 05 : Enter to password textbox with value is 123456
+[2023-08-12 22:25:03,728] Register - Step 06 : Enter to confirmPw textbox with value is 123456
+[2023-08-12 22:25:03,864] Register - Step 07: Click to Register Button
+[2023-08-12 22:25:04,742] Register - Step 08 : Verify register success
+[2023-08-12 22:25:04,822] Register - Step 09 : Go to HomePage
+[2023-08-12 22:25:05,436] Register - Step 01 : Navigate to Login Page
+[2023-08-12 22:25:46,143] My Account - Step 01: Navigate to 'My Account' Page
+[2023-08-12 22:25:47,195] My Account - Step 02: Verify  'My Account' Page is displayed
+[2023-08-12 22:25:47,259]  -------------------------- PASSED -------------------------- 
+[2023-08-12 22:25:47,259] My Account - Step 03: Verify  'My Account' Page is displayed
+[2023-08-12 22:25:47,322] My Account - Step 04: Verify  lastname is displayed correct
+[2023-08-12 22:25:47,397] My Account - Step 05: Verify  email is displayed correct
+[2023-08-12 22:26:39,380] Register - Step 01 : Navigate to register Page
+[2023-08-12 22:27:00,835] Register - Step 01 : Navigate to Login Page
+[2023-08-12 22:27:00,856] My Account - Step 01: Navigate to 'My Account' Page
+[2023-08-12 22:42:33,127] Register - Step 01 : Navigate to register Page
+[2023-08-12 22:43:13,973] Register - Step 01 : Navigate to Login Page
+[2023-08-12 22:43:54,689] My Account - Step 01: Navigate to 'My Account' Page

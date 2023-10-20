@@ -1,0 +1,3 @@
+[2023-08-12 22:42:33,127] Register - Step 01 : Navigate to register Page
+[2023-08-12 22:43:13,973] Register - Step 01 : Navigate to Login Page
+[2023-08-12 22:43:54,689] My Account - Step 01: Navigate to 'My Account' Page

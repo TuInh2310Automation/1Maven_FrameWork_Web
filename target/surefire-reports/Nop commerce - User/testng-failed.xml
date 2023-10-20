@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Nop commerce - User]" verbose="0">
+  <parameter name="enviroment" value="dev"/>
+  <test thread-count="5" name="Run on Chrome(failed)" verbose="0">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.nopcommerce.user.Level_22_Multiple_Enviroment_Owner">
+        <methods>
+          <include name="afterClass"/>
+          <include name="User_01_Register"/>
+          <include name="User_03_MyAccount"/>
+          <include name="beforeClass"/>
+          <include name="User_02_Login"/>
+          <include name="initBeforeSuite"/>
+        </methods>
+      </class> <!-- com.nopcommerce.user.Level_22_Multiple_Enviroment_Owner -->
+    </classes>
+  </test> <!-- Run on Chrome(failed) -->
+</suite> <!-- Failed suite [Nop commerce - User] -->
